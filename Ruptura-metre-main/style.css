@@ -1,0 +1,17 @@
+:root {
+    --cor-de-fundo: rgb(200, 175, 190);
+}
+
+.cabecalho-menu {
+  background-color: var(--cor-de-fundo);
+}
+
+.cabecalho-menu-ite {
+  display: block;
+  padding: 18px;
+  font-size: 23px;
+  text-decoration: line-through;
+  color: black;
+  text-align: center;
+  border-top: 1px solid;
+}
